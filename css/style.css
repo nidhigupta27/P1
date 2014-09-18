@@ -18,22 +18,10 @@ p{
   font-family: 'Lusitana', serif;
   font-size: 18px;
  }
-.center {
-  text-align: center;
-   }
 .important{
   font-weight: bold;
   font-size: 20px;
   }
-.project_content{
-  display:block;
-  padding: 1 em;
-  margin-left: 5em;
-  margin-right: 3em;
-  margin-top: 0 em;
-  margin-bottom: 1em; 
-   
-}
 #picture{
   text-align:left;
   overflow:auto;
